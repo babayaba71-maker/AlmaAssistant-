@@ -1,0 +1,6 @@
+{
+  "name": "Alma",
+  "description": "Alma Digital Assistant with an interactive hologram wallpaper and system-wide assist integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
